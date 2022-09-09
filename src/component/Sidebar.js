@@ -41,7 +41,7 @@ export default function Sidebar() {
                               
                               <ul className="nav nav-treeview">
                                   <li className="nav-item">
-                                      <a href ="/dashboard" className="nav-link ">
+                                      <a href ="#dashboard" className="nav-link ">
                                           <i className="far fa-circle nav-icon" />
                                           <p>ประวัติส่วนตัว</p>
                                       </a>
